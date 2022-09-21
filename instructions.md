@@ -1,4 +1,4 @@
 - get `android-file-transfer-linux` appimage
-- install `gvfs-mtp` and `mtpfs`
+- install `gvfs-mtp fuse2` and `mtpfs`
 - connect phone to the correct port
 - done
