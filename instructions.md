@@ -1,0 +1,4 @@
+- get `android-file-transfer-linux` appimage
+- install `gvfs-mtp` and `mtpfs`
+- connect phone to the correct port
+- done
